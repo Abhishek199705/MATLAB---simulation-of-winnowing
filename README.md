@@ -10,5 +10,7 @@ A MATLAB based study of numerical methods.
 ## Analysis
 Grain and chaff trajectories were plotted by solving a coupled ODE. The implementation included closure modelling of the drag.
 
+Particle trajectories and error plots have been uploaded in images.
+
 
 
