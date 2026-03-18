@@ -8,7 +8,7 @@ A MATLAB based study of numerical methods.
 - Monte Carlo methods
 
 ## Analysis
-Grain and chaff trajectories were plotted by solving a coupled ODE. The implementation included closure modelling of the drag forces.
+Grain and chaff trajectories were plotted by solving a coupled ODE. The implementation included closure modelling of the drag.
 
 
 
